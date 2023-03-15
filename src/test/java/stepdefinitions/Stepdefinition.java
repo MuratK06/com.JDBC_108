@@ -16,7 +16,7 @@ public class Stepdefinition {
     // bilgileri alinir.
 
         /*
-        Database baglantisi icin gerekli bilgiler.
+        Database baglantisi icin gerekli bilgiler....
         type: jdbc:mysql
         host/ip: 45.84.206.41
         port:3306
