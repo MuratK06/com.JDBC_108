@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="1.635">
-    <testcase classname="JDBC uzerinden Databse baglantisi kurularak ilk test" name="Users tablosundan isimler testi." time="1.479">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="1.547">
+    <testcase classname="JDBC uzerinden Databse baglantisi kurularak ilk test" name="Users tablosundan isimler testi." time="1.343">
         <system-out>
             <![CDATA[Given Database ile iletisimi baslat.........................................passed
 Then Query statement araciligi ile database gonderilir......................passed

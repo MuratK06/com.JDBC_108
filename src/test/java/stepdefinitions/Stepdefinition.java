@@ -44,7 +44,7 @@ public class Stepdefinition {
         statement= connection.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE, ResultSet.CONCUR_READ_ONLY);
 
         // connection objemizi olusturduk ve (url,username ve password datalarini connection objesinin icine koyduk.)
-        // olusturdugumuz connection objesini kullanarak typelari belli bir satatement create ettik.
+        // olusturdugumuz connection objesini kullanarak typelari belli bir satatement create ettik...........
     }
     @Then("Query statement araciligi ile database gonderilir")
     public void query_statement_araciligi_ile_database_gonderilir() throws SQLException {
